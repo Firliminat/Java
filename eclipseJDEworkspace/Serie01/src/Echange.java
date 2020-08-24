@@ -23,7 +23,7 @@ public class Echange {
 		tmp = x;
 		x = y;
 		y = tmp;
-
+		
 		System.out.println("Apres permutation:");
 		System.out.println("x: " + x);
 		System.out.println("y: " + y);
