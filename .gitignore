@@ -1,5 +1,7 @@
-# ignore all eclipse metadata
+# ignore all eclipse generated files
 *.metadata*
+*.settings*
+*.classpath
 
 # ignore all compiled files
 *bin*
